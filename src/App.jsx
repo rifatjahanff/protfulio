@@ -1,7 +1,7 @@
 import "./App.css";
 import Home from "./components/Home";
 import Banner from "./components/layouts/Banner";
-import Clients from "./components/layouts/clients";
+
 import Contact from "./components/layouts/Contact";
 import Footer from "./components/layouts/Footer";
 import Navbar from "./components/layouts/Navbar";
@@ -11,6 +11,7 @@ import ScrollToTop from "./components/layouts/Scroll";
 import Skills from "./components/layouts/Skills";
 
 import { Routes, Route } from "react-router";
+import Clients from "./components/layouts/Clients";
 
 function App() {
   return (
