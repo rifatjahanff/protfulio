@@ -1,0 +1,26 @@
+import React from 'react'
+import Navbar from './layouts/Navbar'
+import Banner from './layouts/Banner'
+import Sarvice from './layouts/Sarvice'
+import Clients from './layouts/clients'
+import Skills from './layouts/Skills'
+import Contact from './layouts/Contact'
+import Footer from './layouts/Footer'
+import Works from './layouts/Works'
+
+const Home = () => {
+  return (
+    <>
+    <Navbar/>
+    <Banner/>
+    <Sarvice/>
+    <Skills/>
+    <Works/>
+    <Clients/>
+    <Contact/>
+    <Footer/>
+    </>
+  )
+}
+
+export default Home
