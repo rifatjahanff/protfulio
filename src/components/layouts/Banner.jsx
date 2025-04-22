@@ -66,7 +66,7 @@ const Banner = () => {
 
           <div className="absolute top-[400px] sm:top-[420px] md:top-[450px] left-4 sm:left-6 md:left-7 flex flex-col sm:flex-row gap-4 sm:gap-6 md:gap-10">
             <a
-              href="https://surl.li/vsewoz"
+              href="https://m.me/rifat.jahan.123"
               target="_blank"
               rel="noopener noreferrer"
               className="btn bg-transparent text-white hover:bg-white hover:text-red-500 text-xl sm:text-2xl md:text-3xl px-6 py-4 sm:px-8 sm:py-5 md:p-9 rounded-2xl"
@@ -74,7 +74,7 @@ const Banner = () => {
               Hi I am Rifat Jahan
             </a>
             <a
-              href="https://surl.li/zttibf"
+              href="https://drive.google.com/uc?export=download&id=1G61AN1u_v9RuxJ4MglOcXBtKQlRkq1lb"
               className="btn bg-transparent text-white hover:bg-white hover:text-red-500 text-xl sm:text-2xl md:text-3xl px-6 py-4 sm:px-8 sm:py-5 md:p-9 rounded-2xl"
               target="_blank"
               rel="noopener noreferrer"
