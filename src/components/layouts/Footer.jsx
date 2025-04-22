@@ -26,7 +26,7 @@ const Footer = () => {
               className={"text-[20px] mt-[10px] text-white"}
             />
             <div className="flex mt-[10px] items-center">
-              <IoMdMail className="text-xl mt-[7px] bg-[#93F2FF]  mr-[10px]" />
+              <IoMdMail className="text-xl mt-[7px] bg-[#93F2FF] text-black mr-[10px]" />
               <Heading
                 text={"jahanrifat953@gmail.com"}
                 as={"p"}
@@ -39,33 +39,33 @@ const Footer = () => {
           <div className="flex justify-center md:justify-end">
             <div className="flex gap-5 text-3xl mt-[30px] md:mt-[125px]">
               <a
-                href="https://www.facebook.com/rifat.jahan.730669" // replace with your real Facebook link
+                href="https://www.facebook.com/rifat.jahan.730669"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <FaFacebookSquare className="hover:bg-white bg-[#93F2FF] hover:text-red-500 cursor-pointer " />
+                <FaFacebookSquare className="hover:bg-white bg-[#93F2FF] text-black hover:text-red-500 cursor-pointer " />
               </a>
 
               <a
-                href="https://www.linkedin.com/in/rifat-jahan-63215b34a/" // replace with your real Facebook link
+                href="https://www.linkedin.com/in/rifat-jahan-63215b34a/" 
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <FaLinkedin className="hover:bg-white bg-[#93F2FF]  hover:text-red-500 cursor-pointer" />
+                <FaLinkedin className="hover:bg-white bg-[#93F2FF] text-black  hover:text-red-500 cursor-pointer" />
               </a>
               <a
-                href="https://x.com/RifatJahanRume" // replace with your real Facebook link
+                href="https://x.com/RifatJahanRume" 
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <FaTwitterSquare className="hover:bg-white bg-[#93F2FF]  hover:text-red-500 cursor-pointer" />
+                <FaTwitterSquare className="hover:bg-white bg-[#93F2FF] text-black  hover:text-red-500 cursor-pointer" />
               </a>
               <a
-                href="https://www.instagram.com/jahanrifat9531/" // replace with your real Facebook link
+                href="https://www.instagram.com/jahanrifat9531/" 
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <FaInstagramSquare className="hover:bg-white bg-[#93F2FF]  hover:text-red-500 cursor-pointer" />
+                <FaInstagramSquare className="hover:bg-white bg-[#93F2FF] text-black  hover:text-red-500 cursor-pointer" />
               </a>
             </div>
           </div>

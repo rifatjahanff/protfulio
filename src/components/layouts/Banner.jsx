@@ -23,33 +23,33 @@ const Banner = () => {
 
           <div className="absolute flex gap-3 sm:gap-5 md:gap-7 text-2xl sm:text-3xl left-4 sm:left-40 md:left-96 top-[180px] sm:top-[200px]">
             <a
-              href="https://www.facebook.com/rifat.jahan.730669" // replace with your real Facebook link
+              href="https://www.facebook.com/rifat.jahan.730669" 
               target="_blank"
               rel="noopener noreferrer"
             >
-              <FaFacebookSquare className="hover:bg-white bg-[#93F2FF] hover:text-red-500 cursor-pointer " />
+              <FaFacebookSquare className="hover:bg-white bg-[#93F2FF] text-black hover:text-red-500 cursor-pointer " />
             </a>
 
             <a
-              href="https://www.linkedin.com/in/rifat-jahan-63215b34a/" // replace with your real Facebook link
+              href="https://www.linkedin.com/in/rifat-jahan-63215b34a/" 
               target="_blank"
               rel="noopener noreferrer"
             >
-              <FaLinkedin className="hover:bg-white bg-[#93F2FF]  hover:text-red-500 cursor-pointer" />
+              <FaLinkedin className="hover:bg-white bg-[#93F2FF] text-black  hover:text-red-500 cursor-pointer" />
             </a>
             <a
-              href="https://x.com/RifatJahanRume" // replace with your real Facebook link
+              href="https://x.com/RifatJahanRume" 
               target="_blank"
               rel="noopener noreferrer"
             >
-              <FaTwitterSquare className="hover:bg-white bg-[#93F2FF]  hover:text-red-500 cursor-pointer" />
+              <FaTwitterSquare className="hover:bg-white bg-[#93F2FF] text-black  hover:text-red-500 cursor-pointer" />
             </a>
             <a
-              href="https://www.instagram.com/jahanrifat9531/" // replace with your real Facebook link
+              href="https://www.instagram.com/jahanrifat9531/" 
               target="_blank"
               rel="noopener noreferrer"
             >
-              <FaInstagramSquare className="hover:bg-white bg-[#93F2FF]  hover:text-red-500 cursor-pointer" />
+              <FaInstagramSquare className="hover:bg-white bg-[#93F2FF] text-black  hover:text-red-500 cursor-pointer" />
             </a>
           </div>
 
