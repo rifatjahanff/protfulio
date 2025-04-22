@@ -26,7 +26,7 @@ const Footer = () => {
               className={"text-[20px] mt-[10px] text-white"}
             />
             <div className="flex mt-[10px] items-center">
-              <IoMdMail className="text-xl mt-[7px] bg-[#93F2FF] text-red-500 mr-[10px]" />
+              <IoMdMail className="text-xl mt-[7px] bg-[#93F2FF]  mr-[10px]" />
               <Heading
                 text={"jahanrifat953@gmail.com"}
                 as={"p"}
@@ -38,10 +38,10 @@ const Footer = () => {
           {/* Right Section */}
           <div className="flex justify-center md:justify-end">
             <div className="flex gap-5 text-3xl mt-[30px] md:mt-[125px]">
-              <FaFacebookSquare className="hover:bg-white bg-[#93F2FF] hover:text-red-500 cursor-pointer" />
-              <FaLinkedin className="hover:bg-white bg-[#93F2FF] hover:text-red-500 cursor-pointer" />
-              <FaTwitterSquare className="hover:bg-white bg-[#93F2FF] hover:text-red-500 cursor-pointer" />
-              <FaInstagramSquare className="hover:bg-white bg-[#93F2FF] hover:text-red-500 cursor-pointer" />
+              <FaFacebookSquare className="hover:bg-white bg-[#93F2FF]  hover:text-red-500 cursor-pointer" />
+              <FaLinkedin className="hover:bg-white bg-[#93F2FF]  hover:text-red-500 cursor-pointer" />
+              <FaTwitterSquare className="hover:bg-white bg-[#93F2FF]  hover:text-red-500 cursor-pointer" />
+              <FaInstagramSquare className="hover:bg-white bg-[#93F2FF]  hover:text-red-500 cursor-pointer" />
             </div>
           </div>
         </div>
