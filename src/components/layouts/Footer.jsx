@@ -38,10 +38,35 @@ const Footer = () => {
           {/* Right Section */}
           <div className="flex justify-center md:justify-end">
             <div className="flex gap-5 text-3xl mt-[30px] md:mt-[125px]">
-              <FaFacebookSquare className="hover:bg-white bg-[#93F2FF]  hover:text-red-500 cursor-pointer" />
-              <FaLinkedin className="hover:bg-white bg-[#93F2FF]  hover:text-red-500 cursor-pointer" />
-              <FaTwitterSquare className="hover:bg-white bg-[#93F2FF]  hover:text-red-500 cursor-pointer" />
-              <FaInstagramSquare className="hover:bg-white bg-[#93F2FF]  hover:text-red-500 cursor-pointer" />
+              <a
+                href="https://www.facebook.com/rifat.jahan.730669" // replace with your real Facebook link
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <FaFacebookSquare className="hover:bg-white bg-[#93F2FF] hover:text-red-500 cursor-pointer " />
+              </a>
+
+              <a
+                href="https://www.linkedin.com/in/rifat-jahan-63215b34a/" // replace with your real Facebook link
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <FaLinkedin className="hover:bg-white bg-[#93F2FF]  hover:text-red-500 cursor-pointer" />
+              </a>
+              <a
+                href="https://x.com/RifatJahanRume" // replace with your real Facebook link
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <FaTwitterSquare className="hover:bg-white bg-[#93F2FF]  hover:text-red-500 cursor-pointer" />
+              </a>
+              <a
+                href="https://www.instagram.com/jahanrifat9531/" // replace with your real Facebook link
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <FaInstagramSquare className="hover:bg-white bg-[#93F2FF]  hover:text-red-500 cursor-pointer" />
+              </a>
             </div>
           </div>
         </div>

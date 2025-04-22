@@ -38,14 +38,14 @@ const Banner = () => {
               <FaLinkedin className="hover:bg-white bg-[#93F2FF]  hover:text-red-500 cursor-pointer" />
             </a>
             <a
-              href="https://www.linkedin.com/in/rifat-jahan-63215b34a/" // replace with your real Facebook link
+              href="https://x.com/RifatJahanRume" // replace with your real Facebook link
               target="_blank"
               rel="noopener noreferrer"
             >
               <FaTwitterSquare className="hover:bg-white bg-[#93F2FF]  hover:text-red-500 cursor-pointer" />
             </a>
             <a
-              href="https://www.linkedin.com/in/rifat-jahan-63215b34a/" // replace with your real Facebook link
+              href="https://www.instagram.com/jahanrifat9531/" // replace with your real Facebook link
               target="_blank"
               rel="noopener noreferrer"
             >

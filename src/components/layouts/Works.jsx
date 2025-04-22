@@ -12,7 +12,7 @@ const Works = () => {
 
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-10 mt-[70px]">
         <a href="https://react-orbi.vercel.app/" target="_blank" rel="noopener noreferrer">
-          <div className="w-full h-[300px] border-[2px] border-amber-400"></div>
+          <div className="bg-[url('/src/assets/orabi.jpg')] bg-cover bg-center bg-no-repeat w-full h-[300px] border-[2px] border-amber-400"></div>
         </a>
         <a href="https://react-orbi.vercel.app/" target="_blank" rel="noopener noreferrer">
           <div className="w-full h-[300px] border-[2px] border-amber-400"></div>
