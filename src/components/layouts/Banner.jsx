@@ -74,10 +74,9 @@ const Banner = () => {
               Hi I am Rifat Jahan
             </a>
             <a
-              href="https://drive.google.com/uc?export=download&id=1XyzAbCDeFgHIJKLmnopQRstuVWXYZ"
+              href="https://drive.google.com/uc?export=download&id=1fxNi5qKGoqXl0iyNuWzBuGHjvsz9ahIp"
               className="btn bg-transparent text-white hover:bg-white hover:text-red-500 text-xl sm:text-2xl md:text-3xl px-6 py-4 sm:px-8 sm:py-5 md:p-9 rounded-2xl"
-              target="_blank"
-              rel="noopener noreferrer"
+              download
             >
               Download CV
             </a>
