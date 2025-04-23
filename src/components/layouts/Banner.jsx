@@ -23,7 +23,7 @@ const Banner = () => {
 
           <div className="absolute flex gap-3 sm:gap-5 md:gap-7 text-2xl sm:text-3xl left-4 sm:left-40 md:left-96 top-[180px] sm:top-[200px]">
             <a
-              href="https://www.facebook.com/rifat.jahan.730669" 
+              href="https://www.facebook.com/rifat.jahan.730669"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -31,21 +31,21 @@ const Banner = () => {
             </a>
 
             <a
-              href="https://www.linkedin.com/in/rifat-jahan-63215b34a/" 
+              href="https://www.linkedin.com/in/rifat-jahan-63215b34a/"
               target="_blank"
               rel="noopener noreferrer"
             >
               <FaLinkedin className="hover:bg-white bg-[#93F2FF] text-black  hover:text-red-500 cursor-pointer" />
             </a>
             <a
-              href="https://x.com/RifatJahanRume" 
+              href="https://x.com/RifatJahanRume"
               target="_blank"
               rel="noopener noreferrer"
             >
               <FaTwitterSquare className="hover:bg-white bg-[#93F2FF] text-black  hover:text-red-500 cursor-pointer" />
             </a>
             <a
-              href="https://www.instagram.com/jahanrifat9531/" 
+              href="https://www.instagram.com/jahanrifat9531/"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -74,11 +74,10 @@ const Banner = () => {
               Hi I am Rifat Jahan
             </a>
             <a
-              href="https://drive.google.com/drive/folders/1JtDIGd_iNl77K1yQl0UrlieeW7BGL414"
+              href="https://drive.google.com/uc?export=download&id=1XyzAbCDeFgHIJKLmnopQRstuVWXYZ"
               className="btn bg-transparent text-white hover:bg-white hover:text-red-500 text-xl sm:text-2xl md:text-3xl px-6 py-4 sm:px-8 sm:py-5 md:p-9 rounded-2xl"
               target="_blank"
               rel="noopener noreferrer"
-              download
             >
               Download CV
             </a>
