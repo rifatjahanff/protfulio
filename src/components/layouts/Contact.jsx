@@ -19,7 +19,7 @@ const Contact = () => {
 
   return (
     <Container>
-      <div className="mt-[100px]">
+      <div className="mt-[100px] mb-[100px]">
         <Heading
           text={"My Contact Information"}
           as={"p"}

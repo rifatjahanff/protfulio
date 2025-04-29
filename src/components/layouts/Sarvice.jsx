@@ -12,7 +12,7 @@ import Images from '../Images'
 const Sarvice = () => {
   return (
     <Container>
-      <div className="mt-[100px]">
+      <div className="mt-[100px] mb-[150px]">
         <Heading
           text={"My Specializations Services"}
           as={"p"}

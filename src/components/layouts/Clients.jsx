@@ -14,7 +14,7 @@ import cliEight from "../../assets/clientsEight.png";
 const Clients = () => {
   return (
     <Container>
-      <div className="mt-[100px]">
+      <div className="mt-[100px] mb-[150px]">
         <Heading
           text={"My Awesome Clients"}
           as={"p"}

@@ -11,14 +11,14 @@ import Works from './layouts/Works'
 const Home = () => {
   return (
     <>
-    <Navbar/>
+    
     <Banner/>
     <Sarvice/>
     <Skills/>
     <Works/>
     <Clients/>
     <Contact/>
-    <Footer/>
+   
     </>
   )
 }

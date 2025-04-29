@@ -12,12 +12,14 @@ import Skills from "./components/layouts/Skills";
 
 import { Routes, Route } from "react-router";
 import Clients from "./components/layouts/Clients";
+import Rootlayouts from "./components/layouts/Rootlayouts";
 
 function App() {
   return (
     <>
       <div className="bg-[#070824] w-full h-full">
         <Routes>
+          <Route element={<Rootlayouts/>}>
           <Route path="/" element={<Home />} />
           <Route path="/navbar" element={<Navbar />} />
           <Route path="/banner" element={<Banner />} />
@@ -27,6 +29,7 @@ function App() {
           <Route path="/clients" element={<Clients />} />
           <Route path="/contact" element={<Contact />} />
           <Route path="/footer" element={<Footer />} />
+          </Route>
         </Routes>
 
         <ScrollToTop />

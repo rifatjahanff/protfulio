@@ -6,7 +6,7 @@ const Works = () => {
   return (
     <>
     <Container>
-    <div className="mt-[150px]">
+    <div className="mt-[150px] mb-[150px]">
       <Heading text={"My Awesome Work"} as={"p"} className={"text-[20px] mt-[10px] text-white text-center"} />
       <Heading text={"My Recent Works"} as={"h1"} className={"text-[50px] mt-[10px] text-white text-center mb-[150px]"} />
 

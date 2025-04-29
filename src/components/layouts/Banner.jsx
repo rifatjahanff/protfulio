@@ -12,7 +12,7 @@ const Banner = () => {
   return (
     <>
       <Container>
-        <div className="bg-[url('/src/assets/BannerArea.png')] bg-cover bg-center bg-no-repeat h-[800px] w-full relative mt-[150px]">
+        <div className="bg-[url('/src/assets/BannerArea.png')] bg-cover bg-center bg-no-repeat h-[800px] w-full relative mt-[150px] mb-[150px]">
           <h1 className="text-white absolute text-xl sm:text-2xl md:text-3xl top-[120px] sm:top-[160px] md:top-[195px] left-4 sm:left-6 md:left-7">
             Welcome{" "}
             <span className="text-red-500 text-2xl sm:text-3xl md:text-4xl">

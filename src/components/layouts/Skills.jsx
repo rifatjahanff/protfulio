@@ -12,7 +12,7 @@ import skSix from "../../assets/skillsSix.png";
 const Skills = () => {
   return (
     <Container>
-      <div className="mt-[100px]">
+      <div className="mt-[100px] mb-[150px]">
         <Heading
           text={"My Awesome Skills"}
           as={"p"}
